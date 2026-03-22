@@ -53,10 +53,10 @@ COMPLEX:P04637_Q01196	...
 
 리간드의 SMILES 문자열이 포함된 단일 텍스트 파일이어야 합니다.
 
-**(예시: `ligand.smi`)**
+**(예시: `Aspirine.txt`)**
 
 ```text
-CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5
+CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 
 ## 출력 형식 (Boltz-2 YAML)
